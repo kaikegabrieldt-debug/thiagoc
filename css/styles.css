@@ -527,7 +527,6 @@ h3 {
   aspect-ratio: 4 / 5;
   border-radius: var(--radius);
   overflow: hidden;
-  background: linear-gradient(160deg, var(--paper-2), var(--paper));
   border: 1px solid var(--line);
 }
 
